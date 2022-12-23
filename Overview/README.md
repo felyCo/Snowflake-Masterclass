@@ -13,6 +13,6 @@ Cloud-Native >> It runs on these infrastructure
 -GCP
 -Azure
 
-Cloud Native SaaS >>> Provides a web interface and APIs to connect to serverless, cloud-based scalable services 
+Snowflake is a Cloud Native SaaS >>> Provides a web interface and APIs to connect to serverless, cloud-based scalable services 
 
 
