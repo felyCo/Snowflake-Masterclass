@@ -21,3 +21,20 @@ and visualizations to big data processing, real-time analytics, and machine lear
 - Stored in Object storage
 - Schema on Read
 - Massive volume
+
+
+
+Data Warehouse
+- Designed for analytics and reports
+- Fast reads
+- Column-based storage
+- Aggregate SQL queries
+- Huge volume data
+- Star schema
+
+Understanding Data Warehouse
+Before and After Pipelines:These includes
+- Input connectors
+- Streaming ingest
+- Output connectors
+- Visualization
