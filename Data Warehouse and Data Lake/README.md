@@ -4,7 +4,7 @@ A data warehouse is a central repository of information that can be analyzed to 
 Data flows into a data warehouse from transactional systems, relational databases, and other sources, typically on a regular cadence.
 
 
-# Data Warehouse
+# Proprties
 - Structure Data
 - Stored in tables
 - Schema on read
@@ -16,7 +16,7 @@ A data lake is a centralized repository that allows you to store all your struct
 You can store your data as-is, without having to first structure the data, and run different types of analytics—from dashboards 
 and visualizations to big data processing, real-time analytics, and machine learning to guide better decisions.
 
-# Data Lake
+# Properties
 - Unstructured Data(Files)
 - Stored in Object storage
 - Schema on Read
