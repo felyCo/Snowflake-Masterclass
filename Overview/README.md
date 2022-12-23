@@ -16,3 +16,22 @@ Cloud-Native >> It runs on these infrastructure
 Snowflake is a Cloud Native SaaS >>> Provides a web interface and APIs to connect to serverless, cloud-based scalable services 
 
 
+Snowflake is used for;
+- Ad hoc reads
+- Data warehouse reads
+- Data lake reads
+
+Not used for
+- OLTP
+- Transactions
+- Constraint enforcement
+
+Key SnowflakeDB Features
+- Virtual and multi clustered warehouse
+- Time travel and zero copy cloning
+- Data sharing and marketplace
+- Granular security and automatic encryption
+- High availability via cross-cloud replication
+
+
+
