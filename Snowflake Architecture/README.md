@@ -17,5 +17,5 @@ At a high level, key summary of hybrid-columnar:
     Blob >>> Blob storage is a type of cloud storage for unstructured data. A "blob," which is short for Binary Large Object, is a mass of data in binary form that does     not necessarily conform to any file format. Blob storage keeps these masses of data in non-hierarchical storage areas called data lakes.
     The data is compressed into blobs and fetched as blobs.
 
-![Felix Checkin](https://user-images.githubusercontent.com/32365871/209571773-9674f529-2aa5-46b2-abe0-55456897e873.jpg)
+![Felix Checkin](https://user-images.githubusercontent.com/32365871/209571773-9674f529-2aa5-46b2-abe0-55456897e873.jpg)      ![Felix Checkin (1)](https://user-images.githubusercontent.com/32365871/209574111-5a7867cf-adb8-4e69-81bf-5f46dfc2aba7.jpg)
 
