@@ -3,6 +3,7 @@
 
 -SnowflakeDB Separates the control planes for maximum control and scalability
 ![Felix Checkin (1)](https://user-images.githubusercontent.com/32365871/209574111-5a7867cf-adb8-4e69-81bf-5f46dfc2aba7.jpg)
+
 Snowflake Architecture consist ofthree layers namely;
 - Cloud Services  >> Managing infrastructure, Access control, security, optimizer and metadata
 - Querry Processing  >> This is where MMP(Massive Parallel Processing). This is the muscle of the system. Provides several virtual computer resouce to process the all the querries and all the operations.
