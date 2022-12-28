@@ -19,6 +19,12 @@ Using the Interface it happens as follows;
 >> - Auto Resume { Automatically resuming warehouse operation after suspension}
 >> - Auto Suspend { Automatically suspends a warehouse operation when not in use}
 >> Warehouse Type {Standard} or {Snowpark-optimized} >> Reccomended for some machine learning or compute intensive query
->> 
+
+
+Then go to the Worksheets 
+
+USE WAREHOUSE REPORTING_WH
+
+SELECT * FROM DEVELOPMENT.INFORMATION_SCHEMA.TABLES
 
 
